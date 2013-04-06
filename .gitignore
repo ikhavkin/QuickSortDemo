@@ -77,8 +77,10 @@ ipch/
 *.psess
 *.vsp
 
-# ReSharper is a .NET coding add-in
+# ReSharper, DotCover and NCrunch are .NET coding add-ins
 _ReSharper*
+*.DotSettings
+*.ncrunchsolution
 
 # Installshield output folder
 [Ee]xpress
